@@ -24,18 +24,17 @@ Before you begin, ensure you have the following installed on your computer:
 
 ## 🚀 Installation**
 
-Follow these steps to set up and run **Research_Paper** on your local machine.
+Follow these steps to set up and run Research_Paperon your local machine.
 
 ### 1. Clone the Repository
 
 Start by cloning the project repository to your local machine using Git.
 
 ```bash
-git clone https://github.com/your-username/Research_Paper.git
+git clone https://github.com/titikshit/Research_Paper.git
 cd Research_Paper
 ```
 
-*Replace `your-username` with your actual GitHub username.*
 
 ### 2. Set Up a Virtual Environment
 

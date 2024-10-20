@@ -78,7 +78,7 @@ docker pull lfoppiano/grobid:0.7.2
 #### b. Run the GROBID Docker Container
 
 ```bash
-docker run -d --name grobid -p 8070:8070 lfoppiano/grobid:0.7.2
+docker run -d --platform linux/amd64 --name grobid -p 8070:8070 lfoppiano/grobid:0.7.2
 ```
 
 - `-d`: Runs the container in detached mode (in the background).
